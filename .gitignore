@@ -1,0 +1,34 @@
+# Arquivos de ambiente
+*.env
+
+# Arquivos de cache e metadados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Credenciais e arquivos de configuração sensíveis
+*.pem
+*.key
+*.crt
+secrets.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de e-mail
+email.log
+
+# Ambiente virtual
+venv/
+env/
+
+# Logs
+*.log
+
+# Arquivos de dependências
+pip-log.txt
