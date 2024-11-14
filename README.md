@@ -8,3 +8,14 @@ Certifique-se de ter o Python 3.x instalado. Em seguida, instale as dependência
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Execução
+
+Após instalar as dependências, insira um email válido na linha 27 do arquivo `main.py` e execute o comando:
+
+```bash
+python main.py
+```
+
+Agora, basta olhar a caixa de email que foi inserida
